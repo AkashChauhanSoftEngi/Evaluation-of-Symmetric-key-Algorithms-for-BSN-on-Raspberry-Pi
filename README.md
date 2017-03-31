@@ -8,7 +8,6 @@ The BSN implementation using the Raspberry pi incorporates the RC 4 encryption t
 An implementation of these algorithms has been carried out on the Raspberry pi. Further using available LINUX packages/utilities, a comparison of these algorithms has been laid forth as to find the most suited algorithm in a given situation. Also by simulating the values obtained for the algorithms on MATLAB, a proper graphical analysis of the entire work has been depicted. A situational use of these algorithms along with their weaknesses given will help in segregating the use of these algorithms according to the need of the time and situation.
 
 This System Implements:
-* Cryptography
 * Encryption & Decryption
 * Blowfish Algorithm
 * RC4 Algorithm
@@ -26,6 +25,7 @@ This System uses:
 * Eclipse [IDE]
 * Research and Analysiss
 * Body Sensor networks (BSN)
+* Cryptography
 * Encryption & Decryption
 * Blowfish Algorithm
 * RC4 Algorithm
