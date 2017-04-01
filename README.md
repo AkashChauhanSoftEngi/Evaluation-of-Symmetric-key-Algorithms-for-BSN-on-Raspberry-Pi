@@ -23,7 +23,7 @@ This System uses:
 * C
 * Java J2SE
 * Eclipse [IDE]
-* Research and Analysiss
+* Research and Analysis
 * Body Sensor networks (BSN)
 * Cryptography
 * Encryption & Decryption
